@@ -69,6 +69,6 @@ else:
     cv2.putText(img, "Both Open", (10, 30), cv2.FONT_HERSHEY_SIMPLEX,0.7, (0, 0, 255), 2)
 
 
-cv2.imwrite("Results/result1.jpg",img)
+cv2.imwrite("Results/result4.jpg",img)
 cv2.imshow("Output", img)
 cv2.waitKey(0)
