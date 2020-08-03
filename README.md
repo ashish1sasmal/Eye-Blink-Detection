@@ -1,4 +1,4 @@
-# Eye-Blink-Detection
+# Eye-Blink-Detection 😉
 <b> “ The time in your life can go by in the blink of an eye, so look for what lasts a lifetime.  “
 
 -- J.R. Rim
@@ -22,5 +22,11 @@
       If EAR <= 0.3:
            Blink Occur
  
-
-<img src="https://github.com/ashish1sasmal/Eye-Blink-Detection/blob/master/Results/eye_blink_live.gif" width=500>
+ ## Results:
+    1. Video Result
+  <img src="https://github.com/ashish1sasmal/Eye-Blink-Detection/blob/master/Results/eye_blink_live.gif" width=500>
+    
+    2. Image Results
+        2.1 Both Eyes Open  2.2 Left Eye Wink  2.3 Right Eye Wink  2.4  Both Eye Close
+  <img src="https://github.com/ashish1sasmal/Eye-Blink-Detection/blob/master/Results/result1.jpg" width=320>
+  <img src="https://github.com/ashish1sasmal/Eye-Blink-Detection/blob/master/Results/result2.jpg" width=320>
