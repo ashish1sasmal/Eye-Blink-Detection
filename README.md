@@ -28,5 +28,4 @@
     
     2. Image Results
         2.1 Both Eyes Open  2.2 Left Eye Wink  2.3 Right Eye Wink  2.4  Both Eye Close
-  <img src="https://github.com/ashish1sasmal/Eye-Blink-Detection/blob/master/Results/result1.jpg" width=320>
-  <img src="https://github.com/ashish1sasmal/Eye-Blink-Detection/blob/master/Results/result2.jpg" width=320>
+  <img src="https://github.com/ashish1sasmal/Eye-Blink-Detection/blob/master/Results/result1.jpg" width=320> <img src="https://github.com/ashish1sasmal/Eye-Blink-Detection/blob/master/Results/result2.jpg" width=320> 
